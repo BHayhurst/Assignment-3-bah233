@@ -1,0 +1,19 @@
+---
+title: "Attempting to make websites as cool as Ivonne."
+author: "Ivonne Kienast and Brett Hayhurst"
+date: "2/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+The best website to learn from can be found here
+
+https://github.com/IvonneK
+
+The second best is here
+
+https://github.com/BHayhurst
+
+![](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/elephant_1280p.jpg?itok=loupVgZw)
